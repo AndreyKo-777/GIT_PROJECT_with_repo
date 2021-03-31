@@ -161,7 +161,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IXSJOTYG
 
 [Document8]
-DocumentPath=Sheet3.SchDoc
+DocumentPath=Sheet3-renamed.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
